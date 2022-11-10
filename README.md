@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander Polzhofer
-- 👀 I’m interested in WEB Development with react. I'm also curious about Web3 Technologies.
+- 👀 I’m interested in WEB Development with react. I'm also curious about Web3.
 - 🌱 I’m currently learning react, typescript, sass and git.
 - 💞️ I’m looking to collaborate on exciting projects.
 - 📫 You can reach me via github.
